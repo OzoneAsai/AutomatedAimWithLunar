@@ -224,7 +224,3 @@ def clean_up():
     os._exit(0)
 
 if name == "main": print("You are in the wrong directory and are running the wrong file; you must run lunar.py")
-Copy
-
-
-このコードには、ターゲットがロックされた場合に、左クリックを一秒間に5回送信する
